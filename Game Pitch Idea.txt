@@ -1,0 +1,14 @@
+Game idea: I wanna create a game where the main character has to go thrpugh several levels without touching an enemy or else he loses a life each time
+
+Characters Action/Goal: To make it to the end in order to win
+
+Characters: Just a man and a bunch of obstacles in order to win
+
+Win/Lose: If he makes it to the end then the user wins, if he loses 3 lives the game finishes.
+
+Progression Levels: Each level gets harder and harder, you have very easy, easy, medium, hard, very hard
+
+Sources: Super Mario Bros
+
+Skills: Someone that can help and move the world when the character moves, someone that can keep track of the score with a scoreboard,
+somone that can design how the obstacles move.
